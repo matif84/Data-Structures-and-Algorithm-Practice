@@ -19,7 +19,7 @@ import scala.util.Random
  * write. I could have probably gotten it down to 5 lines, but it would have
  * taken me longer to write it
  *
- * @author Kyle D. Williams <kyledgwilliams@gmail.com>
+ *  
  */
 object TextParser{
     /**
